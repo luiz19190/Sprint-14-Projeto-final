@@ -4,7 +4,7 @@
 
 A instrução da plataforma trata o dashboard como opcional (link do Tableau Public em `dashboard.txt`); o Notion 2026 trata como obrigatório. Ele está no cronograma da decomposição (0,5 dia), então entra na primeira entrega. Se ficar para depois, avisar na entrega: o projeto só é aceito com ele.
 
-## Requisitos (docs/01-caso-principal.md §3.2)
+## Requisitos
 
 - Mostra os KPIs analisados no notebook e está ligado à solução proposta.
 - Claro e organizado, compreensível para um stakeholder.

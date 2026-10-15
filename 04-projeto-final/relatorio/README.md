@@ -6,7 +6,7 @@ A instrução da plataforma pede uma apresentação em PDF; o Notion 2026 pede u
 
 Público: stakeholders, não técnicos. Curto: só o que agrega valor, sem repetir o notebook inteiro.
 
-## Estrutura (docs/01-caso-principal.md §3.2)
+## Estrutura
 
 ### Contexto (Challenge)
 - Descrição do problema e por que importa.
@@ -21,5 +21,3 @@ Público: stakeholders, não técnicos. Curto: só o que agrega valor, sem repet
 - Achados principais (números do notebook, com a seção de origem).
 - Impacto no negócio.
 - Recomendações práticas.
-
-Regras de escrita: as mesmas das conclusões (CLAUDE.md §3.5), sempre passando pelo `humanizer`.
