@@ -14,10 +14,6 @@ CA.pem
 *.pem
 .env
 
-# Estado local do Claude Code e instruções pessoais
-.claude/
-CLAUDE.md
-
 # Enunciados literais da TripleTen (material do curso, não é meu para publicar)
 docs/
 
